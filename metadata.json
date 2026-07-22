@@ -1,0 +1,6 @@
+{
+  "name": "EmailChat",
+  "description": "WhatsApp-style instant messaging app using Email ID instead of phone numbers with private & group chats, voice notes, media sharing, and real-time syncing.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
